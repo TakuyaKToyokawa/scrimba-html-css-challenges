@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+.title {
+  margin: 0;
+  background: #281b2d;
+  color: #fcd801;
+  border-bottom: 8px solid #00C54C;
+  text-align: center;
+  font-size: 48px;
+  padding: 16px 0;
+}
